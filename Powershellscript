@@ -1,0 +1,2 @@
+ Connect-AzAccount -Subscription  -Tenant 
+ New-AzResourceGroupDeployment  -Name newDepl -ResourceGroupName -TemplateFile C:\templa
